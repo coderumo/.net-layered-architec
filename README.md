@@ -1,4 +1,4 @@
-# **RABackend Projesi**
+
 
 Bu proje, Engin Demiroğ tarafından öğretilen bilgiler doğrultusunda, modern yazılım geliştirme prensiplerini uygulayarak .NET teknolojileriyle oluşturulmuş bir **backend** uygulamasıdır.
 

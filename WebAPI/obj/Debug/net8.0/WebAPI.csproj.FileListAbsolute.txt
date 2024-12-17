@@ -150,3 +150,7 @@ C:\Users\alkay\source\repos\NorthwindBackend\WebAPI\obj\Debug\net8.0\refint\WebA
 C:\Users\alkay\source\repos\NorthwindBackend\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\alkay\source\repos\NorthwindBackend\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\alkay\source\repos\NorthwindBackend\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
+C:\Users\alkay\source\repos\NorthwindBackend\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
+C:\Users\alkay\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alkay\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\alkay\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll

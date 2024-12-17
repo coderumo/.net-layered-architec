@@ -19,3 +19,4 @@ C:\Users\alkay\source\repos\NorthwindBackend\Business\obj\Debug\net8.0\refint\Bu
 C:\Users\alkay\source\repos\NorthwindBackend\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\alkay\source\repos\NorthwindBackend\Business\obj\Debug\net8.0\Business.genruntimeconfig.cache
 C:\Users\alkay\source\repos\NorthwindBackend\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\alkay\source\repos\NorthwindBackend\Business\obj\Debug\net8.0\Business.sourcelink.json
